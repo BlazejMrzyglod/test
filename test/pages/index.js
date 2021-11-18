@@ -4,6 +4,6 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <h2>Halo</h2>
+    <h1>Halo</h1>
   )
 }
